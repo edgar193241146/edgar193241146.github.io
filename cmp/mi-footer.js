@@ -4,4 +4,4 @@ class MiFooter extends HTMLElement{
       `Copyright &copy; 2021 Edgar Alejandro Ortiz Trejo.`;
   }
 }
-customElements.define(`mi-footer`, MiFooter);
+customElements.define("mi-footer", MiFooter);
