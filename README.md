@@ -1,2 +1,2 @@
 # edgar193241146.github.io
-Hola, este es mi primer programa en GitHub
+Ejemplo de un chat y acceso a Firebase (Firestore con Google)
